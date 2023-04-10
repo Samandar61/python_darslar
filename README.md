@@ -1,1 +1,1 @@
-# python_darslar
+# Ushbu repositorda python darslari qo'yib borildi
